@@ -12,8 +12,12 @@
 - **Cloud:** AWS (EC2, S3), Google Cloud (Basics)  
 - **DevOps:** Docker, GitHub Actions (learning)
 
-## 📈 GitHub Stats
+## 📈 My Learning Progress
+
 ![Azeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeemalley&show_icons=true&theme=tokyonight)
+
+> 🔄 I’m currently learning and building projects to grow my GitHub activity. Stay tuned for updates!
+
 
 ## 📫 Connect with Me
 - 🔗 [LinkedIn](http://www.linkedin.com/in/azeemalley)  
