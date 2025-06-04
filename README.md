@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Azeem 👋
 
-<!--
-**azeemalley/azeemalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor’s in Data Science @ PUCIT  
+💡 Passionate about Machine Learning, Artificial Intelligence, and Cloud Computing  
+🚀 Exploring DevOps tools like Docker, Kubernetes, and CI/CD pipelines  
+📊 Love solving real-world problems using data  
+📚 Currently learning: Deep Learning & AWS
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, R, SQL  
+- **Tools & Frameworks:** Pandas, Scikit-learn, TensorFlow, Flask, Git  
+- **Cloud:** AWS (EC2, S3), Google Cloud (Basics)  
+- **DevOps:** Docker, GitHub Actions (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Azeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeemalley&show_icons=true&theme=tokyonight)
+
+## 📫 Connect with Me
+- 🔗 [LinkedIn](http://www.linkedin.com/in/azeemalley)  
+- 📧 Email: azeemalley@gmail.com
+
