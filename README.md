@@ -1,25 +1,89 @@
-# Hi there, I'm Muhammad Azeem 👋
+<div align="center">
 
-🎓 Bachelor’s in Data Science @ PUCIT  
-💡 Passionate about Machine Learning, Artificial Intelligence, and Cloud Computing  
-🚀 Exploring DevOps tools like Docker, Kubernetes, and CI/CD pipelines  
-📊 Love solving real-world problems using data  
-📚 Currently learning: Deep Learning & AWS
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&width=700&lines=Muhammad+Azeem;AI+%2F+ML+Engineer;LLMs+·+RAG+·+Multi-Agent+Systems" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/azeemalley)
+[![Email](https://img.shields.io/badge/Email-azeemalley@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:azeemalley@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Lahore-Pakistan-16A34A?style=flat)](https://github.com/azeemalley)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm an **AI/ML Engineer** with 1+ year of production experience building real-world AI systems at **Spiral Lab**, Lahore — where I shipped **10+ applications** across LLMs, RAG pipelines, multi-agent architectures, and voice AI.
+
+I bridge the gap between research and production. I don't just run models — I build systems that work under real constraints: latency, cost, retrieval quality, and scale.
+
+- 🎓 BS Data Science — PUCIT '25
+- 🏆 McKinsey Forward Program · Aspire Leaders Program (Harvard Business School)
+- 🔍 Open to AI/ML Engineer roles — remote or Lahore-based
+
+---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, R, SQL  
-- **Tools & Frameworks:** Pandas, Scikit-learn, TensorFlow, Flask, Git  
-- **Cloud:** AWS (EC2, S3), Google Cloud (Basics)  
-- **DevOps:** Docker, GitHub Actions (learning)
 
-## 📈 My Learning Progress
+| Category | Tools |
+|---|---|
+| **LLMs & Agents** | LangChain · OpenAI · Groq · Multi-Agent Systems · Tool Use |
+| **RAG & Vector DBs** | ChromaDB · FAISS · Retrieval Pipelines |
+| **Voice AI** | Voice Agents · Speech Pipelines |
+| **Backend** | Python · FastAPI · REST APIs |
+| **ML** | Scikit-learn · XGBoost · LightGBM · TensorFlow |
+| **Cloud & DevOps** | AWS (EC2, S3) · Docker · GitHub Actions |
+| **Data** | Pandas · SQL · Feature Engineering |
 
-![Azeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeemalley&show_icons=true&theme=tokyonight)
+---
 
-> 🔄 I’m currently learning and building projects to grow my GitHub activity. Stay tuned for updates!
+## 🚀 Featured Projects
 
+### 🤖 [AI Agent](https://github.com/azeemalley/Ai-Agent)
+Autonomous AI agent with tool use and multi-step reasoning. Built for real task execution — not just chat.
+`Python` `LangChain` `Tool Use`
 
-## 📫 Connect with Me
-- 🔗 [LinkedIn](http://www.linkedin.com/in/azeemalley)  
-- 📧 Email: azeemalley@gmail.com
+---
 
+### 🎙️ [AI Voice Agent](https://github.com/azeemalley/ai-voice-agent)
+End-to-end voice AI pipeline — speech input → LLM reasoning → voice output. Production-style implementation.
+`Python` `Voice AI` `LLMs`
+
+---
+
+### 📰 [AI News Automation Bot](https://github.com/azeemalley/ai-news-automation-bot)
+Automated news aggregation and summarization bot powered by LLMs. Fetches, filters, and delivers AI-curated news.
+`Python` `LLM` `Automation`
+
+---
+
+### 💬 [Groq Chatbot](https://github.com/azeemalley/groq-chatbot)
+High-speed conversational AI powered by Groq's inference engine — ultra-low latency LLM responses.
+`Python` `Groq` `LLMs`
+
+---
+
+### 🫀 [Heart Disease Risk Prediction](https://github.com/azeemalley/Heart-Disease-ML-Project)
+6-phase ML research project — stacking ensemble (RF + XGBoost + LightGBM + SVM) with SHAP + LIME explainability.
+**93.2% accuracy · 0.965 AUC** — outperforms 5 published papers (2022–2024).
+`Python` `XGBoost` `LightGBM` `SHAP` `Optuna`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Azeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeemalley&show_icons=true&theme=github_dark&hide_border=true&title_color=2563EB&icon_color=2563EB)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azeemalley&layout=compact&theme=github_dark&hide_border=true&title_color=2563EB)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm actively looking for **AI/ML Engineer** roles where I can build production-grade AI systems.
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azeemalley)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azeemalley@gmail.com)
