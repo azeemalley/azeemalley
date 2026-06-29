@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&width=700&lines=Muhammad+Azeem;AI+%2F+ML+Engineer;LLMs+·+RAG+·+Multi-Agent+Systems" alt="Typing SVG" />
+<img src="./typing_banner.gif" alt="Typing Animation" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/azeemalley)
 [![Email](https://img.shields.io/badge/Email-azeemalley@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:azeemalley@gmail.com)
@@ -18,6 +18,8 @@ I bridge the gap between research and production. I don't just run models — I 
 
 - 🎓 BS Data Science — PUCIT '25
 - 🏆 McKinsey Forward Program · Aspire Leaders Program (Harvard Business School)
+- 🌟 Amal Academy Fellow — Stanford University funded
+- ☁️ NAVTTC Cloud Computing — AWS & Cloud Fundamentals
 - 🔍 Open to AI/ML Engineer roles — remote or Lahore-based
 
 ---
@@ -69,15 +71,11 @@ High-speed conversational AI powered by Groq's inference engine — ultra-low la
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently
 
-<div align="center">
-
-![Azeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeemalley&show_icons=true&theme=github_dark&hide_border=true&title_color=2563EB&icon_color=2563EB)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azeemalley&layout=compact&theme=github_dark&hide_border=true&title_color=2563EB)
-
-</div>
+- 🔭 Working on real-world agentic AI systems with tool use & memory
+- 📚 Deep diving into LLM fine-tuning and advanced RAG optimization
+- ☁️ Preparing for Microsoft Azure AI-900 certification
 
 ---
 
